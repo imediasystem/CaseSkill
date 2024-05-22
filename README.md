@@ -1,1 +1,1 @@
-Application for employee evaluation
+Console application for employee evaluation
