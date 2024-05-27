@@ -1,4 +1,4 @@
-Console application for employee evaluation and main logo.
+Console App for employee evaluation and main logo.
 
 <br>
 
