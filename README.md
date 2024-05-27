@@ -1,4 +1,4 @@
-Aplikacja konsolowa do oceny pracowników w firmie i własne logo do niej.
+Console application for employee evaluation and main logo.
 
 <br>
 
