@@ -1,6 +1,6 @@
 ## 🔥 Project Name - CASESKILL
 
-Developing an employee evaluation console application, showcasing my ability to create software solutions that improve business operations. This project involves complex problem-solving and software development skills.
+Developing an employee evaluation console application, showcasing my ability to create software solutions that improve business operations. This project involves complex problem-solving and software development skills. Designing the main application logo.
 
 ![CaseSkill-200](https://github.com/imediasystem/SkillCase/assets/125789515/6bf3ca7a-bd61-4dbe-9ba6-f9cbe1a9a87f)
 
