@@ -1,3 +1,5 @@
+![Company employee training statistics](https://github.com/user-attachments/assets/167d6442-326a-47c8-a0f4-99aea3992ef3)
+
 ## 🔥 Project Name - CASESKILL
 
 Developing an employee evaluation console application, showcasing my ability to create software solutions that improve business operations. This project involves complex problem-solving and software development skills. Designing the main application logo.
