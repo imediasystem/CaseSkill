@@ -1,4 +1,4 @@
-![Company employee training statistics](https://github.com/user-attachments/assets/167d6442-326a-47c8-a0f4-99aea3992ef3)
+![Company employee training statistics 2022](https://github.com/user-attachments/assets/23122d33-21c5-4d99-b7f5-0533051728bc)
 
 ## 🔥 Project Name - CASESKILL
 
